@@ -18,6 +18,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-323232?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323232?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-323232?style=flat&logo=typescript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-323232?style=flat&logo=go)&nbsp;
 ![React](https://img.shields.io/badge/-React-323232?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-323232?style=flat&logo=vue)&nbsp;
@@ -25,13 +26,18 @@
 ![Django](https://img.shields.io/badge/-Django-323232?style=flat&logo=django&logoColor=F3F2F9)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-323232?style=flat&logo=flask&logoColor=F3F2F9)&nbsp;
 ![Fasthttp](https://img.shields.io/badge/-FastHttp-323232?style=flat&logo=fasthttp)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-323232?style=flat&logo=webpack)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-323232?style=flat&logo=tailwindcss&logoColor=F3F2F9)
 ![HTML](https://img.shields.io/badge/-HTML-323232?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-323232?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-323232?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-323232?style=flat&logo=docker)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-323232?style=flat&logo=redis)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-323232?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-323232?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323232?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-323232?style=flat&logo=apache)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-323232?style=flat&logo=nginx)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
