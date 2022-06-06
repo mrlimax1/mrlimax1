@@ -16,22 +16,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-F3F2F9?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F3F2F9?style=flat&logo=javascript)&nbsp;
-![Go](https://img.shields.io/badge/-Go-F3F2F9?style=flat&logo=go)&nbsp;
-![React](https://img.shields.io/badge/-React-F3F2F9?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-F3F2F9?style=flat&logo=vue)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-F3F2F9?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-F3F2F9?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-F3F2F9?style=flat&logo=flask)&nbsp;
-![Fasthttp](https://img.shields.io/badge/-FastHttp-F3F2F9?style=flat&logo=fasthttp)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-F3F2F9?style=flat&logo=tailwindcss&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-F3F2F9?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-F3F2F9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F3F2F9?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-F3F2F9?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-F3F2F9?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-F3F2F9?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-323232?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-323232?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-323232?style=flat&logo=go)&nbsp;
+![React](https://img.shields.io/badge/-React-323232?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-323232?style=flat&logo=vue)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-323232?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-323232?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-323232?style=flat&logo=flask)&nbsp;
+![Fasthttp](https://img.shields.io/badge/-FastHttp-323232?style=flat&logo=fasthttp)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-323232?style=flat&logo=tailwindcss&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-323232?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-323232?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-323232?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-323232?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323232?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
