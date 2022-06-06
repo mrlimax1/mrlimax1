@@ -24,6 +24,7 @@
 ![React](https://img.shields.io/badge/-React-323232?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-323232?style=flat&logo=vue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-323232?style=flat&logo=node.js)&nbsp;
+![OPENAPI](https://img.shields.io/badge/-OPENAPI-323232?style=flat&logo=openapi)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-323232?style=flat&logo=django&logoColor=F3F2F9)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-323232?style=flat&logo=flask&logoColor=F3F2F9)&nbsp;
 ![Fasthttp](https://img.shields.io/badge/-FastHttp-323232?style=flat&logo=fasthttp)&nbsp;
@@ -34,6 +35,9 @@
 ![Git](https://img.shields.io/badge/-Git-323232?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-323232?style=flat&logo=docker)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-323232?style=flat&logo=redis)&nbsp;
+![Posgresql](https://img.shields.io/badge/-Postgresql-323232?style=flat&logo=postgresql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-323232?style=flat&logo=mysql)&nbsp;
+![mongoDB](https://img.shields.io/badge/-mongoDB-323232?style=flat&logo=mongodb)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-323232?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323232?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
