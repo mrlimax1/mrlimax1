@@ -40,7 +40,7 @@
 ![mongoDB](https://img.shields.io/badge/-mongoDB-323232?style=flat&logo=mongodb)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-323232?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-323232?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323232?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323232?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Apache](https://img.shields.io/badge/-Apache-323232?style=flat&logo=apache)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-323232?style=flat&logo=nginx)&nbsp;
 
