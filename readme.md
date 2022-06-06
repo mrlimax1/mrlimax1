@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-323232?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323232?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323232?style=flat&logo=typescript)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-323232?style=flat&logo=kotlin)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-323232?style=flat&logo=go)&nbsp;
 ![React](https://img.shields.io/badge/-React-323232?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-323232?style=flat&logo=vue)&nbsp;
