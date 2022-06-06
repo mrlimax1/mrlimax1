@@ -1,6 +1,6 @@
 ![ Banner](https://github.com/mrlimax1/mrlimax1/blob/main/assets/Banner.png?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Спасибо, что заглянул! Я Женя</h2>
 
 <!-- ## 👋 &nbsp;Спасибо, что заглянул! Я Женя -->
 
