@@ -22,10 +22,10 @@
 ![React](https://img.shields.io/badge/-React-323232?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-323232?style=flat&logo=vue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-323232?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-323232?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-323232?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-323232?style=flat&logo=django&logoColor=F3F2F9)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-323232?style=flat&logo=flask&logoColor=F3F2F9)&nbsp;
 ![Fasthttp](https://img.shields.io/badge/-FastHttp-323232?style=flat&logo=fasthttp)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-323232?style=flat&logo=tailwindcss&logoColor=563D7C)\
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-323232?style=flat&logo=tailwindcss&logoColor=F3F2F9)\
 ![HTML](https://img.shields.io/badge/-HTML-323232?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-323232?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-323232?style=flat&logo=git)&nbsp;
