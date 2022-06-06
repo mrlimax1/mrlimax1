@@ -50,6 +50,6 @@
 <p align="center">
 <a href="https://vk.com/feetache"><img src="https://img.shields.io/badge/-Vk-1877F2?style=flat&logo=vk&logoColor=white&"/></a>
 <a href="mailto:mrlimax@icloud.com"><img src="https://img.shields.io/badge/-mrlimax@icloud.com-1769FF?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https:/t.me/Bot_py_kt"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Bot_py_kt"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.behance.net/wknddesign"><img src="https://img.shields.io/badge/-weeknd-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
